@@ -81,7 +81,7 @@ public class Lab {
     }
 ```
 
-6. 创建类Peizhi，用来存储不能被修改的利率。
+6. 创建类Sl，用来存储不能被修改的利率。
 ``` java
 public class Sl {
     public static final double tax = 0.03;
